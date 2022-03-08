@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LS.GlobalErrorHandler</id>
+    <version>1.0.0</version>
+    <authors>Luiz Santana</authors>
+    <owners>Luiz Santana</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Dotnet global error handler</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNetCore.Mvc.NewtonsoftJson" version="6.0.2" />
+      <dependency id="Serilog" version="2.10.0" />
+    </dependencies>
+  </metadata>
+</package>

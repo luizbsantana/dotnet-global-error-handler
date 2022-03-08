@@ -5,6 +5,10 @@
     <RootNamespace>dotnet_global_error_handler</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>LS.GlobalErrorHandler</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Luiz Santana</Authors>
+    <Description>Dotnet global error handler</Description>
   </PropertyGroup>
 
   <ItemGroup>
